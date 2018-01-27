@@ -18,8 +18,7 @@ import {QuoteLinesComponent} from './views/quote-lines/quote-lines.component';
 
 const appRoutes: Routes = [
   {path: '', component: HomeComponent},
-  {path: 'quotes', component: QuotesComponent},
-  {path: 'quotelines', component: QuoteLinesComponent}
+  {path: 'quotes', component: QuotesComponent}
 ];
 
 
